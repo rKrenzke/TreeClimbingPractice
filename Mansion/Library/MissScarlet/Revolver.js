@@ -5,3 +5,7 @@ function bang(){
 };
 
 let hello = "hi";
+
+function hello(){
+    console.log("say hello")
+}
